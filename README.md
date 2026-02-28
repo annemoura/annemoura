@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência da Computação  
 💻 Em formação para Full Stack Developer  
-📍 Belém, PA - Brasil  
+📍  Brasil  
 
 ---
 
