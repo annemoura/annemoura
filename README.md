@@ -25,8 +25,7 @@
 
 ## 📂 Projetos
 
-🔹 fundamentos-css
-fundamentos-css
+🔹 [fundamentos-css](https://github.com/annemoura/fundamentos.css)  
 
 Exercícios e práticas de CSS focando em base sólida.
 
