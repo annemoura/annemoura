@@ -18,15 +18,16 @@
 
 ## 🛠 Tecnologias
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
 </p>
-
 ---
 
 ## 📂 Projetos
 
-🔹 fundamentos-css  
+🔹 fundamentos-css
+fundamentos-css
+
 Exercícios e práticas de CSS focando em base sólida.
 
 🔹 (em breve) ToDo App  
