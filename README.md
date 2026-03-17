@@ -1,57 +1,52 @@
-# Oi, eu sou a Anne 👋
+# 👩‍💻 Anne Moura
 
 🎓 Estudante de Ciência da Computação  
-💻 Em formação para Full Stack Developer  
-📍  Brasil  
+🚀 Desenvolvedora Front-End em formação  
 
 ---
 
-## 🚀 Atualmente estudando
-
-- HTML
-- CSS
-- JavaScript
-- Algoritmos e Estruturas de Dados
-- Métodos Matemáticos
+## ✨ Sobre mim
+Atualmente focada em desenvolvimento web, construindo projetos práticos com HTML, CSS e JavaScript.  
+Buscando evoluir para desenvolvimento Full Stack com base sólida e projetos reais.
 
 ---
 
-## 🛠 Tecnologias
+## 🛠️ Tecnologias
+- HTML  
+- CSS  
+- JavaScript  
+- Git & GitHub  
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
-</p>
 ---
 
-## 📂 Projetos
+## 🚀 Projeto em destaque
 
-🔹 [fundamentos-css](https://github.com/annemoura/fundamentos.css)  
+🔗 **Portfólio CSS (online)**  
+👉 https://annemoura.github.io/Fundamentos-de-CSS/
 
-Exercícios e práticas de CSS focando em base sólida.
+📁 Código:  
+👉 https://github.com/annemoura/Fundamentos-de-CSS
 
+📌 Projeto com múltiplas páginas aplicando:
+- layout com CSS  
+- navegação entre páginas  
+- organização de estrutura  
+- publicação com GitHub Pages  
+
+---
+
+## 📚 Atualmente estudando
+- JavaScript  
+- Estruturas de Dados  
+- Lógica de Programação  
 
 ---
 
 ## 🎯 Objetivo
-
-Construir uma base técnica forte e evoluir para desenvolvimento Full Stack com projetos reais.
+Desenvolver aplicações completas e evoluir como desenvolvedora Full Stack.
 
 ---
 
 ## 📫 Contato
-
-GitHub: @annemoura
-<!--
-**annemoura/annemoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: https://www.linkedin.com/in/anne-moura-4a4567319  
+- GitHub: https://github.com/annemoura
