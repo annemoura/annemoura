@@ -29,8 +29,6 @@
 
 Exercícios e práticas de CSS focando em base sólida.
 
-🔹 (em breve) ToDo App  
-Aplicação em JavaScript com manipulação de DOM.
 
 ---
 
