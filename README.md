@@ -18,20 +18,31 @@ Buscando evoluir para desenvolvimento Full Stack com base sólida e projetos rea
 - Git & GitHub  
 
 ---
+## 🚀 Projetos em destaque
 
-## 🚀 Projeto em destaque
-
-🔗 **Portfólio CSS (online)**  
+### 🎨 Portfólio CSS
+🔗 **Acesse online:**  
 👉 https://annemoura.github.io/Fundamentos-de-CSS/
 
-📁 Código:  
+📁 **Código:**  
 👉 https://github.com/annemoura/Fundamentos-de-CSS
 
-📌 Projeto com múltiplas páginas aplicando:
-- layout com CSS  
-- navegação entre páginas  
-- organização de estrutura  
-- publicação com GitHub Pages  
+📝 **Descrição:**  
+Projeto focado na prática de estilização com CSS, abordando conceitos como layout, cores, espaçamento, tipografia e organização visual.  
+O objetivo foi desenvolver interfaces modernas e responsivas, aplicando boas práticas de design e estruturação.
+
+---
+
+### 🧱 Portfólio HTML
+🔗 **Acesse online:**  
+👉 https://annemoura.github.io/Fundamentos-html/
+
+📁 **Código:**  
+👉 https://github.com/annemoura/Fundamentos-html
+
+📝 **Descrição:**  
+Projeto que reúne estudos práticos de HTML, incluindo estrutura de páginas, uso de tags semânticas, organização de conteúdo e construção de múltiplas páginas interligadas.  
+Os exercícios estão organizados por temas, demonstrando evolução no aprendizado e aplicação dos conceitos fundamentais do desenvolvimento web.
 
 ---
 
