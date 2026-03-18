@@ -45,6 +45,18 @@ Projeto que reúne estudos práticos de HTML, incluindo estrutura de páginas, u
 Os exercícios estão organizados por temas, demonstrando evolução no aprendizado e aplicação dos conceitos fundamentais do desenvolvimento web.
 
 ---
+### ✅ Lista de Tarefas com JavaScript
+🔗 **Acesse online:**  
+👉 https://annemoura.github.io/lista-de-tarefas-js/
+
+📁 **Código:**  
+👉 https://github.com/annemoura/lista-de-tarefas-js
+
+📝 **Descrição:**  
+Aplicação web interativa desenvolvida com JavaScript puro, permitindo adicionar, concluir e remover tarefas.  
+O projeto foca na manipulação do DOM, eventos e lógica de programação, simulando funcionalidades reais de uma aplicação.
+
+---
 
 ## 📚 Atualmente estudando
 - JavaScript  
