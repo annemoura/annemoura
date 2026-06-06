@@ -71,5 +71,5 @@ Desenvolver aplicações completas e evoluir como desenvolvedora Full Stack.
 ---
 
 ## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/anne-moura-4a4567319  
+- Linkedin: https://www.linkedin.com/in/aryane-moura-4a4567319/ 
 - GitHub: https://github.com/annemoura
