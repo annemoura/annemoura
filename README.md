@@ -1,7 +1,7 @@
 # 👩‍💻 Anne Moura
 
 🎓 Estudante de Ciência da Computação  
-🚀 Desenvolvedora Front-End em formação  
+🚀 Desenvolvedora Full Stack em formação  
 
 ---
 
@@ -71,24 +71,21 @@ O projeto foca na manipulação do DOM, eventos e lógica de programação, simu
 
 ---
 
-## 📚 Atualmente Estudando:
 
-Front-end: CSS3 Intermediário/Avançado (Flexbox, Grid, Pseudo-classes) e JavaScript Moderno (ES6+)
+## 📚 Atualmente Estudando
 
-Ciência da Computação: Estrutura de Dados, Algoritmos e Programação Orientada a Objetos (POO)
-
-Back-end & Banco de Dados: Fundamentos de Node.js, Express e SQL (em breve)
-
-Ferramentas: Git, GitHub e boas práticas de versionamento
+* **Front-end:** CSS3 Intermediário/Avançado (Flexbox, Grid, Pseudo-classes) e JavaScript Moderno (ES6+)
+* **Ciência da Computação:** Estrutura de Dados, Algoritmos e Programação Orientada a Objetos (POO)
+* **Back-end & Banco de Dados:** Fundamentos de Node.js, Express e SQL (em breve)
+* **Ferramentas:** Git, GitHub e boas práticas de versionamento
 ---
 
-## 🎯 Objetivos:
 
-Estágio / Junior em Desenvolvimento Web / Full Stack: Buscar a primeira oportunidade no mercado para aplicar conhecimentos em HTML, CSS, JavaScript e versionamento com Git.
+## 🎯 Objetivo
 
-Consolidação do Stack JS: Dominar React no Front-end e Node.js no Back-end ao longo do ano para construir aplicações completas de ponta a ponta.
-
-Evolução Acadêmica & Prática: Desenvolver projetos reais e de código aberto enquanto avanço no bacharelado em Ciência da Computação.
+* **Estágio / Júnior em Desenvolvimento Web / Full Stack:** Buscar a primeira oportunidade no mercado para aplicar conhecimentos em HTML, CSS, JavaScript e versionamento com Git.
+* **Consolidação da Stack JS:** Dominar React no Front-end e Node.js no Back-end ao longo do ano para construir aplicações completas de ponta a ponta.
+* **Evolução Acadêmica & Prática:** Desenvolver projetos reais enquanto avanço no bacharelado em Ciência da Computação.
 ---
 
 ## 📫 Contato
