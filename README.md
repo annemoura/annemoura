@@ -29,7 +29,9 @@ Buscando evoluir para desenvolvimento Full Stack com base sólida e projetos rea
 👉 https://github.com/annemoura/discord-clone-landing-page
 
 📝 **Descrição:**  
+
 Projeto focado na recriação da interface inicial do Discord, aplicando estrutura semântica em HTML5 e estilização moderna com CSS3. Foram trabalhados conceitos cruciais como Flexbox, posicionamento de elementos, tipografia e organização de layout.
+
 ---
 
 
