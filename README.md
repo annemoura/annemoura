@@ -22,6 +22,19 @@ Buscando evoluir para desenvolvimento Full Stack com base sólida e projetos rea
 ---
 ## 🚀 Projetos em destaque
 
+### 💼 Portfólio Pessoal
+
+🔗 **Acesse online:**  
+👉 https://annemoura.github.io/portfolio-pessoal/
+
+📁 **Código:**  
+👉 https://github.com/annemoura/portfolio-pessoal
+
+📝 **Descrição:**  
+Portfólio pessoal desenvolvido com HTML5 e CSS3 para apresentar minha trajetória, tecnologias em estudo, projetos práticos e formas de contato. O projeto foi criado do zero como parte dos meus estudos em desenvolvimento web.
+
+---
+
 ### 🎮 Clone Landing Page Discord
 
 🔗 **Acesse online:**  
