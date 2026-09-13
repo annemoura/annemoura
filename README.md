@@ -19,8 +19,11 @@ Buscando evoluir para desenvolvimento Full Stack com base sólida e projetos rea
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 
+
 ---
 ## 🚀 Projetos em destaque
+---
+
 
 ### 💼 Portfólio Pessoal
 
@@ -51,19 +54,18 @@ Projeto focado na recriação da interface inicial do Discord, aplicando estrutu
 
 ### 🔢 Contador
 
-Projeto desenvolvido para praticar conceitos básicos de desenvolvimento web utilizando **HTML, CSS e JavaScript**.
-
-A aplicação permite aumentar, diminuir e resetar o valor do contador, além de trabalhar com limites definidos e alterações visuais conforme o valor exibido.
-
- HTML, CSS e JavaScript
-
 🔗 **Acesse online:**  
 👉  https://annemoura.github.io/contador/
 
 📁 **Código:**  
 👉  https://github.com/annemoura/contador
 
+📝 **Descrição:** 
+Projeto desenvolvido para praticar conceitos básicos de desenvolvimento web utilizando **HTML, CSS e JavaScript**
+A aplicação permite aumentar, diminuir e resetar o valor do contador, além de trabalhar com limites definidos e alterações visuais conforme o valor exibido.
+ HTML, CSS e JavaScript
 
+ 
 ---
 
 ### 🎨 Portfólio CSS
