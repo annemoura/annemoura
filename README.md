@@ -48,7 +48,8 @@ Portfólio pessoal desenvolvido com HTML5 e CSS3 para apresentar minha trajetór
 Projeto focado na recriação da interface inicial do Discord, aplicando estrutura semântica em HTML5 e estilização moderna com CSS3. Foram trabalhados conceitos cruciais como Flexbox, posicionamento de elementos, tipografia e organização de layout.
 
 ---
-# 🔢 Contador
+
+### 🔢 Contador
 
 Projeto desenvolvido para praticar conceitos básicos de desenvolvimento web utilizando **HTML, CSS e JavaScript**.
 
@@ -56,12 +57,14 @@ A aplicação permite aumentar, diminuir e resetar o valor do contador, além de
 
  HTML, CSS e JavaScript
 
-## 🚀 Acesse o projeto
+🔗 **Acesse online:**  
+👉  https://annemoura.github.io/contador/
 
-🔗 [Visualizar projeto online](https://annemoura.github.io/contador/)
+📁 **Código:**  
+👉  https://github.com/annemoura/contador
 
-💻 [Ver código no GitHub](https://github.com/annemoura/contador)
 
+---
 
 ### 🎨 Portfólio CSS
 🔗 **Acesse online:**  
