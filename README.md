@@ -56,10 +56,11 @@ Projeto focado na recriação da interface inicial do Discord, aplicando estrutu
 ### 🔐 Gerador de Senhas
 
 🔗 **Acesse online:**
-👉 https://annemoura.github.io/gerador-de-senhas/
+👉https://annemoura.github.io/gerador-de-senhas/
 
 📁 **Código:** 
-👉 https://github.com/annemoura/gerador-de-senhas
+👉https://github.com/annemoura/gerador-de-senhas
+
 
 📝 **Descrição:**
 
