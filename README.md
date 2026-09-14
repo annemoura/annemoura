@@ -34,6 +34,7 @@ Buscando evoluir para desenvolvimento Full Stack com base sólida e projetos rea
 👉 https://github.com/annemoura/portfolio-pessoal
 
 📝 **Descrição:**  
+
 Portfólio pessoal desenvolvido com HTML5 e CSS3 para apresentar minha trajetória, tecnologias em estudo, projetos práticos e formas de contato. O projeto foi criado do zero como parte dos meus estudos em desenvolvimento web.
 
 ---
@@ -52,6 +53,23 @@ Projeto focado na recriação da interface inicial do Discord, aplicando estrutu
 
 ---
 
+### 🔐 Gerador de Senhas
+
+🔗  **Acesse online:**
+👉 https://annemoura.github.io/gerador-de-senhas/)
+
+📁 **Código:** 
+👉 https://github.com/annemoura/gerador-de-senhas)
+
+📝 **Descrição:**
+
+Aplicação desenvolvida com **HTML, CSS e JavaScript** que permite gerar senhas personalizadas escolhendo tamanho e tipos de caracteres.
+Possui opções de letras maiúsculas, minúsculas, números e símbolos, além das funções de copiar e limpar a senha.
+
+
+---
+
+
 ### 🔢 Contador
 
 🔗 **Acesse online:**  
@@ -61,6 +79,7 @@ Projeto focado na recriação da interface inicial do Discord, aplicando estrutu
 👉  https://github.com/annemoura/contador
 
 📝 **Descrição:** 
+
 Projeto desenvolvido para praticar conceitos básicos de desenvolvimento web utilizando **HTML, CSS e JavaScript**
 A aplicação permite aumentar, diminuir e resetar o valor do contador, além de trabalhar com limites definidos e alterações visuais conforme o valor exibido.
  HTML, CSS e JavaScript
@@ -69,6 +88,7 @@ A aplicação permite aumentar, diminuir e resetar o valor do contador, além de
 ---
 
 ### 🎨 Portfólio CSS
+
 🔗 **Acesse online:**  
 👉 https://annemoura.github.io/Fundamentos-de-CSS/
 
@@ -76,12 +96,16 @@ A aplicação permite aumentar, diminuir e resetar o valor do contador, além de
 👉 https://github.com/annemoura/Fundamentos-de-CSS
 
 📝 **Descrição:**  
+
 Projeto focado na prática de estilização com CSS, abordando conceitos como layout, cores, espaçamento, tipografia e organização visual.  
 O objetivo foi desenvolver interfaces modernas e responsivas, aplicando boas práticas de design e estruturação.
 
+
 ---
 
+
 ### 🧱 Portfólio HTML
+
 🔗 **Acesse online:**  
 👉 https://annemoura.github.io/Fundamentos-html/
 
@@ -89,11 +113,13 @@ O objetivo foi desenvolver interfaces modernas e responsivas, aplicando boas pr�
 👉 https://github.com/annemoura/Fundamentos-html
 
 📝 **Descrição:**  
+
 Projeto que reúne estudos práticos de HTML, incluindo estrutura de páginas, uso de tags semânticas, organização de conteúdo e construção de múltiplas páginas interligadas.  
 Os exercícios estão organizados por temas, demonstrando evolução no aprendizado e aplicação dos conceitos fundamentais do desenvolvimento web.
 
 ---
 ### ✅ Lista de Tarefas com JavaScript
+
 🔗 **Acesse online:**  
 👉 https://annemoura.github.io/lista-de-tarefas-js/
 
@@ -101,6 +127,7 @@ Os exercícios estão organizados por temas, demonstrando evolução no aprendiz
 👉 https://github.com/annemoura/lista-de-tarefas-js
 
 📝 **Descrição:**  
+
 Aplicação web interativa desenvolvida com JavaScript puro, permitindo adicionar, concluir e remover tarefas.  
 O projeto foca na manipulação do DOM, eventos e lógica de programação, simulando funcionalidades reais de uma aplicação.
 
@@ -124,5 +151,6 @@ O projeto foca na manipulação do DOM, eventos e lógica de programação, simu
 ---
 
 ## 📫 Contato
+
 - Linkedin: https://www.linkedin.com/in/aryane-moura-4a4567319/ 
 - GitHub: https://github.com/annemoura
