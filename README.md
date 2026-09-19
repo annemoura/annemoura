@@ -28,7 +28,7 @@ Buscando evoluir para desenvolvimento Full Stack com base sólida e projetos rea
 ### 📚 StudyHub — Projeto Principal • v1.0
 
 🔗 **Acesse online:**  
-👉 https://studyhub-n7bpovund-studyhub7.vercel.app/login
+👉 https://studyhub-sand-psi.vercel.app/
 
 📁 **Código:**  
 👉 https://github.com/annemoura/studyhub
