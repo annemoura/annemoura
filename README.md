@@ -22,6 +22,25 @@ Buscando evoluir para desenvolvimento Full Stack com base sólida e projetos rea
 
 ---
 ## 🚀 Projetos em destaque
+
+---
+
+### 📚 StudyHub — Projeto Principal • v1.0
+
+🔗 **Acesse online:**  
+👉 https://studyhub-n7bpovund-studyhub7.vercel.app/login
+
+📁 **Código:**  
+👉 https://github.com/annemoura/studyhub
+
+📝 **Descrição:**  
+
+Aplicação de estudos desenvolvida com **React Native, Expo, TypeScript, Expo Router, Supabase e AsyncStorage**.  
+O StudyHub reúne recursos de organização e acompanhamento de estudos, autenticação, dashboard, timer e preferências do usuário, com versão web publicada na Vercel.
+
+A **versão 1.0** marca a primeira versão funcional e publicada do projeto. Parte da implementação contou com apoio de ferramentas de IA e está sendo revisada como material de estudo para aprofundar a compreensão sobre arquitetura, tipagem, navegação, persistência, autenticação e integração com backend.
+
+
 ---
 
 
